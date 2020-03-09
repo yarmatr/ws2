@@ -1,6 +1,5 @@
 def score(payload):
-    """AI function example, after updating again and again and again and again and again.
-    Why isn't it working yet?
+    """AI function example, this is working!!
     
     Example:
       {
