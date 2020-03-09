@@ -1,5 +1,5 @@
 def score(payload):
-    """AI function example, after updating.
+    """AI function example, after updating again.
     
     Example:
       {
